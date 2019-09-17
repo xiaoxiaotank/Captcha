@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captcha.Tool", "Captcha.Tool\Captcha.Tool.csproj", "{FF6CCE4E-81E6-4E04-88AB-EED43761FF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captcha.Test", "Captcha.Test\Captcha.Test.csproj", "{4F3BF06C-C66E-449E-BD37-402FE8BADDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6CCE4E-81E6-4E04-88AB-EED43761FF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6CCE4E-81E6-4E04-88AB-EED43761FF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6CCE4E-81E6-4E04-88AB-EED43761FF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6CCE4E-81E6-4E04-88AB-EED43761FF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3BF06C-C66E-449E-BD37-402FE8BADDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3BF06C-C66E-449E-BD37-402FE8BADDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3BF06C-C66E-449E-BD37-402FE8BADDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3BF06C-C66E-449E-BD37-402FE8BADDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490FDD3A-BD24-4855-87AD-90BB023EAE41}
+	EndGlobalSection
+EndGlobal
